@@ -91,3 +91,9 @@ _build/
 RTE_Components.h
 EventRecorderStub.scvd
 JLinkLog.txt
+
+# QR Code Sender
+epd-qrcode/.env
+epd-qrcode/node_modules/
+epd-qrcode/qrcode_preview.png
+epd-qrcode/package-lock.json
